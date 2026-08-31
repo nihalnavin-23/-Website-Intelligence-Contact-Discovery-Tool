@@ -6,3 +6,4 @@ openpyxl
 lxml
 dnspython
 validators
+python-whois
